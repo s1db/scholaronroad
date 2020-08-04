@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working towards a Computing Science degree at [University of Glasgow](http://gla.ac.uk/)
-- 🌱 I’m currently learning Differential Equations and their applications in Neuroscience
+- 🌱 I’m currently learning Probabilistic Graphical Models.
 - 👯 I’m looking to collaborate on Open Source EdTech projects.
 - 📫 How to reach me: http://sid.gg/
 - 😄 Pronouns: He/Him
