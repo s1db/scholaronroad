@@ -1,15 +1,10 @@
-### Hi there 👋
+### 👋 Hi I'm Sid!
+I'm a Computing Science Faster Route Scholar at [The University of Glasgow](https://gla.ac.uk). I'm on track for graduating with Master's in 2023. In the past I've worked on projects with [The Girl Code](https://thegirlcode.co/), [Data Science for India](), and [Sugar Labs](https://sugarlabs.org/). Back in Highschool I was a member of [MINET](https://minet.co/). 
 
-<!--
-**scholaronroad/scholaronroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working towards a Computing Science degree at [University of Glasgow](http://gla.ac.uk/)
-- 🌱 I’m currently learning Probabilistic Graphical Models.
-- 👯 I’m looking to collaborate on Open Source EdTech projects.
-- 📫 How to reach me: http://sid.gg/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The benches outside the university library are the best place to nap on campus.
 
+[📇 Contact](https://sid.gg/) · [🐦 Twitter](https://twitter.com/scholaronroad) · [👔 LinkedIn](https://linkedin.com/in/sidhant-bhavnani) · [📸 Instagram](https://www.instagram.com/bhavnani.pvt/) 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
