@@ -6,6 +6,7 @@ I'm a Computing Science Faster Route Scholar at [The University of Glasgow](http
 
 [📇 Contact](https://sid.gg/) · [🐦 Twitter](https://twitter.com/scholaronroad) · [👔 LinkedIn](https://linkedin.com/in/sidhant-bhavnani) · [📸 Instagram](https://www.instagram.com/bhavnani.pvt/) 
 
+### 👨‍💻This Week
 <!--START_SECTION:waka-->
 ```text
 Python     5 hrs 7 mins    ███████████████████████▒░   93.38 % 
