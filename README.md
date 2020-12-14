@@ -9,6 +9,6 @@ I'm a Computing Science Faster Route Scholar at [The University of Glasgow](http
 ### 👨‍💻This Week
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 11 mins   █████████████████████████   99.62 % 
+Python   1 hr 10 mins    █████████████████████████   99.49 % 
 ```
 <!--END_SECTION:waka-->
