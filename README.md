@@ -5,13 +5,3 @@ I'm a Computing Science Faster Route Scholar at [The University of Glasgow](http
 - ⚡ Fun fact: The benches outside the university library are the best place to nap on campus.
 
 [📇 Contact](https://sid.gg/) · [🐦 Twitter](https://twitter.com/scholaronroad) · [👔 LinkedIn](https://linkedin.com/in/sidhant-bhavnani) · [📸 Instagram](https://www.instagram.com/bhavnani.pvt/) 
-
-### 👨‍💻This Week
-<!--START_SECTION:waka-->
-```text
-Python       2 hrs 21 mins   ██████████████████████░░░   88.03 % 
-TypeScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSX          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-```
-<!--END_SECTION:waka-->
